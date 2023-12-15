@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hamed Seyedroudbari"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Atlanta, GA"
-  employer         : "Georgia Institute of Technology"
+  employer         : #"Georgia Institute of Technology"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=krGT3LwAAAAJ&hl=en&oi=ao"
   email            : "hamed@gatech.edu"
