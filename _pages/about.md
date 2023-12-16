@@ -28,26 +28,19 @@ I have hands-on experience with the following SmartNICs:
 - Mellanox Innova Flex-4 SmartNIC
   - 40G FPGA SmartNIC
 
-<div class="row">
-  <div class="column">
-    <img src="../images/innova.png" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="../images/innova_diagram.png" style="width:20%">
-  </div>
-</div>
-
 <p align="center">
-  <img src="../images/innova.png" width="256">
-  <img src="../images/innova_diagram.png" width="256">
+  <img src="../images/innova.png" width="200">
+  <img src="../images/innova_diagram.png" width="600">
 </p>
 
 
 - Mellanox BlueField-2 DPU
   - 100G SoC SmartNIC
-  
-<img src="../images/bf2.png" width="300"/>
-<img src="../images/bf2_diagram.png" width="500"/>
+
+<p align="center">
+  <img src="../images/bf2.png" width="200">
+  <img src="../images/bf2_diagram.png" width="600">
+</p>
 
 
 If you're interested in collaborating or have any questions, please don't hesitate to reach out!
