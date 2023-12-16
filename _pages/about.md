@@ -37,6 +37,12 @@ I have hands-on experience with the following SmartNICs:
   </div>
 </div>
 
+<p align="center">
+  <img src="../images/innova.png" width="256">
+  <img src="../images/innova_diagram.png" width="256">
+</p>
+
+
 - Mellanox BlueField-2 DPU
   - 100G SoC SmartNIC
   
