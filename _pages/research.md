@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="../files/nfslicer_gif.gif" alt="animated" width="100"/>
-<img src="../images/nfslicer_fpga.png" width="400">
+<img src="../files/nfslicer_gif.gif" alt="animated" width="300"/>
+<img src="../images/nfslicer_fpga.png" width="800">
 </p>
 
 <!---
