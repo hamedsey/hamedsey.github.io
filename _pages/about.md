@@ -14,15 +14,15 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
   - Major: Electrical and Computer Engineering (ECE) 
   - Advisor: Alex Daglis
   - Research interests: datacenters, smartNICs, in-network computing, computer architecture, FPGAs
+  - I'm currently looking for an internship for Summer 2024. If my profile interests you, please reach out via email: hamed@gatech.edu
 
 - Topic: Enabling an Application-Aware Network with SmartNICs for Latency-Critical Online Services
   - Datacenters traditionally operate with a strict boundary between network and compute. The increasing demands of today’s datacenters has instigated a push toward merging the two, giving rise to the advent of smartNICs. While tightly coupled with their hosts, smartNICs allow for the offloading of application level hints, enabling unique network-compute performance optimizations, which boost server throughput under very tight tail latency SLOs for latency-critical microservices. We aim to identify prime use cases for re-architecting the datacenter using smartNICs and clarify why smartNICs should co-exist, along with the compute powerhouses of the cloud - the servers, as first-class citizens within the datacenter.
 
-# In short, I enjoy building high performance systems (hardware and software)
-
+<!---
+* In short, I enjoy building high performance systems (hardware and software)
+-->
 * If you're interested in collaborating please don't hesitate to reach out!
-
-* I'm currently looking for a research internship for Summer 2024. If my profile interests you, please reach out via email: hamed@gatech.edu
 
 <!---
 Getting started
