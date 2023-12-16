@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, California State University Northridge, 2019
+* Ph.D in Electrical and Computer Engineering, <strong>Georgia</strong> Institute of <strong>Tech</strong>nology, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Research Intern
+  * Arm Research, Austin, TX
+    *	Developed high performance RDMA, RoCE based microbenchmark to test performance limits of BlueField-2 DPU
+      * Outperformed state-of-the-art perftest from NVIDIA’s UCX library
+    * Characterized performance of BlueField-2 DPU in terms of peak sustainable throughput and communication latency and gauged its potential as a candidate for accelerating latency critical workloads.
+    * Demonstrated the Bluefield-2 DPU can boost server’s peak sustained throughput by 66% without incurring additional cost for cloud service provider.
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Pavel Shamis, Luis Pe<span>&#241;</span>a
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
