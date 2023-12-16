@@ -5,7 +5,7 @@ permalink: /publication/turbo
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-25
 venue: '2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
-paperurl: 'http://hamedsey.github.io/files/paper1.pdf'
+paperurl: 'pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
