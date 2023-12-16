@@ -22,7 +22,21 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
 <!---
 * In short, I enjoy building high performance systems (hardware and software)
 -->
-<img src="../images/innova.png" width="200"/>
+
+I have hands-on experience with the following SmartNICs:
+
+- Mellanox Innova Flex-4 SmartNIC
+  - 40G FPGA SmartNIC
+
+<img src="../images/innova.png" width="300"/>
+<img src="../images/innova_diagram.png" width="500"/>
+
+- Mellanox BlueField-2 DPU
+  - 100G SoC SmartNIC
+  
+<img src="../images/bf2.png" width="300"/>
+<img src="../images/bf2_diagram.png" width="500"/>
+
 
 If you're interested in collaborating or have any questions, please don't hesitate to reach out!
 
