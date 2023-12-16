@@ -4,13 +4,22 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<div style="text-align:center">
-    <p align="center">
-    <img src="../images/nfslicer_fpga.png">
-    </p>
-    ![Alt Text](../files/nfslicer_gif.gif)
-</div>
 
+<p align="center">
+<img src="../images/nfslicer_fpga.png">
+</p>
+
+
+<p align="center">
+    <img src="../files/nfslicer_gif.gif" alt="animated" />
+</p>
+
+![Alt Text](../files/nfslicer_gif.gif)
+
+<!---
+<div style="text-align:center">
+</div>
+-->
 
 
 <!---
