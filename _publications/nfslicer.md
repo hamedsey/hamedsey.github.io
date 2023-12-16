@@ -6,7 +6,7 @@ collection: publications
 date: 2022-03-04
 venue: 'arXiv preprint arXiv:2203.02585'
 #paperurl: 'pdf'
-citation: 'Anirudh Sarma, **Hamed Seyedroudbari**, Harshit Gupta, Umakishore Ramachandran, and Alexandros Daglis'
+citation: 'Anirudh Sarma, <strong>Hamed Seyedroudbari</strong>, Harshit Gupta, Umakishore Ramachandran, and Alexandros Daglis'
 ---
 <!---
 This paper is about the number 2. The number 3 is left for future work.
