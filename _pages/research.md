@@ -6,15 +6,9 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="../images/nfslicer_fpga.png">
+<img src="../files/nfslicer_gif.gif" alt="animated" width="100"/>
+<img src="../images/nfslicer_fpga.png" width="400">
 </p>
-
-
-<p align="center">
-    <img src="../files/nfslicer_gif.gif" alt="animated" />
-</p>
-
-![Alt Text](../files/nfslicer_gif.gif)
 
 <!---
 <div style="text-align:center">
