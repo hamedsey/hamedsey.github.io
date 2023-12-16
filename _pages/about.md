@@ -30,10 +30,10 @@ I have hands-on experience with the following SmartNICs:
 
 <div class="row">
   <div class="column">
-    <img src="../images/innova.png" style="width:50%">
+    <img src="../images/innova.png" style="width:20%">
   </div>
   <div class="column">
-    <img src="../images/innova_diagram.png" style="width:50%">
+    <img src="../images/innova_diagram.png" style="width:20%">
   </div>
 </div>
 
