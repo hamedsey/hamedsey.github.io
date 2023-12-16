@@ -6,9 +6,9 @@ collection: publications
 date: 2023-02-25
 venue: '2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
 paperurl: 'pdf'
-citation: 'Seyedroudbari, Hamed, Srikar Vanavasam, and Alexandros Daglis. "Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs." 2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2023.'
+citation: 'Seyedroudbari, Hamed, Srikar Vanavasam, and Alexandros Daglis'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+#This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/turbo.pdf)
 
