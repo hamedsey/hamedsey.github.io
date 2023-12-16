@@ -5,7 +5,7 @@ collection: publications
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-25
 venue: '2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
-paperurl: 'pdf'
+#paperurl: 'pdf'
 citation: 'Seyedroudbari, Hamed, Srikar Vanavasam, and Alexandros Daglis'
 ---
 <!---
