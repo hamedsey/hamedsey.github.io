@@ -20,6 +20,9 @@ main:
 
   - title: "Service"
     url: /service/
+
+  #- title: "Fun"
+  #  url: /fun/
     
   #- title: "Guide"
   #  url: /markdown/
