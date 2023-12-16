@@ -8,6 +8,9 @@ venue: '2023 IEEE International Symposium on High-Performance Computer Architect
 paperurl: 'pdf'
 citation: 'Seyedroudbari, Hamed, Srikar Vanavasam, and Alexandros Daglis'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
-[Download paper here](http://academicpages.github.io/files/turbo.pdf)
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!---
+This paper is about the number 2. The number 3 is left for future work.
+#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+-->
+[pdf](http://hamedsey.github.io/files/turbo.pdf)
+[talk](http://hamedsey.github.io/files/turbo.pdf)
