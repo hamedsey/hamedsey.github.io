@@ -9,9 +9,9 @@ Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs
 ------
 
 <p align="center">
-<img src="../images/turbo_gif.gif" alt="animated" width="200"/>
-<img src="../images/turbo_diagram.png" width="350">
-<img src="../images/turbo_fpga.png" width="350">
+<img src="../images/turbo_gif.gif" alt="animated" width="170"/>
+<img src="../images/turbo_diagram.png" width="300">
+<img src="../images/turbo_fpga.png" width="425">
 
 </p>
 
