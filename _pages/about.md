@@ -22,6 +22,9 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
 <!---
 * In short, I enjoy building high performance systems (hardware and software)
 -->
+<p align="center">
+<img src="../images/work_summary.png">
+</p>
 
 I have hands-on experience with the following SmartNICs:
 
