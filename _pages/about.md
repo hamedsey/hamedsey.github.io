@@ -24,7 +24,7 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
 -->
 
 I have hands-on experience with the following SmartNICs:
-<center>
+
 | Mellanox Innova Flex-4 SmartNIC  | Mellanox BlueField-2 DPU |    
 |----------------------------------|--------------------------|
 | 40G FPGA SmartNIC | 100G SoC SmartNIC |
