@@ -1,6 +1,6 @@
 ---
 title: "Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs"
-collection: publications
+#collection: publications
 #permalink: /publication/turbo
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-25
