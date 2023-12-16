@@ -13,4 +13,4 @@ This paper is about the number 2. The number 3 is left for future work.
 #Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 -->
 [pdf](http://hamedsey.github.io/files/turbo.pdf)
-[talk](http://hamedsey.github.io/files/turbo.pdf)
+[talk](https://www.youtube.com/watch?v=TRqPEkY2_Zg)
