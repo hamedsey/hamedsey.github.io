@@ -10,8 +10,6 @@ redirect_from:
 
 <a href="../files/Seyedroudbari_Hamed_CV.pdf" class="image fit"><img src="../files/Seyedroudbari_Hamed_CV.pdf" alt=""></a>
 
-[embed]../files/Seyedroudbari_Hamed_CV.pdf[/embed]
-
 <!---
 Education
 ======

@@ -16,8 +16,8 @@ main:
   #- title: "Service"
   #  url: /service/
 
-  - title: "Awards"
-    url: /Awards/
+  #- title: "Awards"
+  #  url: /Awards/
 
   #- title: "Fun"
   #  url: /fun/
