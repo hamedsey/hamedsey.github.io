@@ -6,9 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
+<a href="../files/Seyedroudbari_Hamed_CV.pdf" class="image fit"><img src="../files/Seyedroudbari_Hamed_CV.pdf" alt=""></a>
+
+[embed]../files/Seyedroudbari_Hamed_CV.pdf[/embed]
+
+<!---
 Education
 ======
 * B.S. in Computer Engineering, California State University Northridge, 2019
@@ -55,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
