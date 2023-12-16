@@ -29,7 +29,7 @@ I have hands-on experience with the following SmartNICs:
   - 40G FPGA SmartNIC
 
 <p align="center">
-  <img src="../images/innova.png" width="150">
+  <img src="../images/innova.png" width="200">
   <img src="../images/innova_diagram.png" width="500">
 </p>
 
@@ -38,7 +38,7 @@ I have hands-on experience with the following SmartNICs:
   - 100G SoC SmartNIC
 
 <p align="center">
-  <img src="../images/bf2.png" width="150">
+  <img src="../images/bf2.png" width="200">
   <img src="../images/bf2_diagram.png" width="500">
 </p>
 
