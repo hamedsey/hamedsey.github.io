@@ -38,9 +38,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        { title }
+        <a href="#">{{ title }}</a> <a href="#" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        { title }
+        <a href="#" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
 
