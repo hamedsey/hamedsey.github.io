@@ -8,7 +8,7 @@ author_profile: true
 <p align="center">
 ![Alt Text](../files/nfslicer_gif.gif)
 <img src="../images/nfslicer_fpga.png">
-</>
+</p>
 
 
 <!---
