@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+![Alt Text](../files/nfslicer_gif.gif)
+
+<!---
+
 Welcome! If you're here to know more about me, you're at the right place! I'll make this easy :D
 - 5th-year PhD student
   - School: Georgia Institute of Technology
@@ -15,10 +19,6 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
 
 - Topic: Enabling an Application-Aware Network with SmartNICs to Accelerate Latency-Critical Online Services
   - Datacenters traditionally operate with a strict boundary between network and compute. The increasing demands of today’s datacenters has instigated a push toward merging the two, giving rise to the advent of smartNICs. While tightly coupled with their hosts, smartNICs allow for the offloading of application level hints, enabling unique network-compute performance optimizations, which boost server throughput under very tight tail latency SLOs for latency-critical microservices. My work identifies prime use cases for re-architecting the datacenter using smartNICs and clarifies why smartNICs should co-exist, alongside server grade CPUs, as first-class citizens within the datacenter.
-
-<!---
-* In short, I enjoy building high performance systems (hardware and software)
--->
 
 I have hands-on experience with the following SmartNICs:
 
@@ -48,11 +48,9 @@ I have hands-on experience with the following SmartNICs:
   <img src="../images/bf2.png" width="200">
   <img src="../images/bf2_diagram.png" width="500">
 </p>
--->
 
 If you're interested in collaborating or have any questions, please don't hesitate to reach out!
 
-<!---
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
