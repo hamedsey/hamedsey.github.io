@@ -22,7 +22,7 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
 <!---
 * In short, I enjoy building high performance systems (hardware and software)
 -->
-<img src="https://github.com/hamedsey/hamedsey.github.io/blob/master/images/innova.png" alt="drawing" width="200"/>
+<img src="https://github.com/hamedsey/hamedsey.github.io/blob/master/images/innova.png" width="200"/>
 
 If you're interested in collaborating or have any questions, please don't hesitate to reach out!
 
