@@ -19,7 +19,7 @@ Turbo was implemented on a Mellanox Innova Flex-4 FPGA SmartNIC and evaluated on
 
 <p align="center">
 <img src="../images/turbo_gif.gif" alt="animated" width="250"/>
-<img src="../images/turbo_diagram.png" width="350">
+<img src="../images/turbo_diagram.png" width="340">
 <img src="../images/turbo_fpga.png" width="400">
 </p>
 
