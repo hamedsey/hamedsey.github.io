@@ -14,7 +14,8 @@ Insight: μs-scale RPCs require immediate load imbalance detection and remediati
 Turbo's load balancing intelligently steers packets into user space queues at line rate using its two adative policies (i.e., JSQ —Join Shortest Queue— and JLQ —Join Lightest Queue-), improving throughput under tight tail latency SLOs and reducing tail response latency. 
 
 Turbo was implemented on a Mellanox Innova Flex-4 FPGA SmartNIC and evaluated on an RDMA UD microbenchmark and Masstree-RDMA key-value store with various service time distributions.
-<img src="../images/turbo_gif.gif" alt="animated" width="400"/>
+
+<img align="right" src="../images/turbo_gif.gif" alt="animated" width="400"/>
 
 </p>
 
