@@ -8,7 +8,7 @@ author_profile: true
 Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs (published at HPCA’23)
 ------
 
-<p align="left">
+<p>
 Insight: μs-scale RPCs require immediate load imbalance detection and remediation mechanism operating on a per-packet granularity. Existing NIC-based mechanisms (RSS, RSS++) are static and too coarse grained and software-based mechanisms introduce significant overhead for µs-scale RPCs. 
 
 Turbo's load balancing intelligently steers packets into user space queues at line rate using its two adative policies (i.e., JSQ —Join Shortest Queue— and JLQ —Join Lightest Queue-), improving throughput under tight tail latency SLOs and reducing tail response latency. 
