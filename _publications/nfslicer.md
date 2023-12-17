@@ -1,5 +1,5 @@
 ---
-title: "NFSlicer: Data movement optimization for shallow network functions"
+title: "NFSlicer: Data Movement Optimization for Shallow Network Functions"
 #collection: publications
 #permalink: /publication/nfslicer
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
