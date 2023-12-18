@@ -18,8 +18,8 @@ main:
   #- title: "Service"
   #  url: /service/
 
-  #- title: "Awards"
-  #  url: /Awards/
+  - title: "Awards"
+    url: /awards/
 
   #- title: "Fun"
   #  url: /fun/
