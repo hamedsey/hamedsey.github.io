@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Welcome! If you're here to know more about me, you're at the right place! I'll make this easy :D
-- 5th-year PhD student
+- Final-year PhD student
   - School: Georgia Institute of Technology
   - Major: Electrical and Computer Engineering (ECE) 
   - Advisor: Alexandros Daglis
-  - Research interests: datacenters, smartNICs, in-network computing, computer architecture, FPGAs
+  - Research interests: datacenters, smartNICs, in-network computing, RDMA/RoCE, computer architecture, FPGAs
   - I'm currently seeking full-time opportunities to research and develop forms of in-network computing to accelerate high-bandwidth and latency-sensitive datacenter workloads. If my profile piques your interest, please reach out via email: hamed@gatech.edu
 
 - Topic: Enabling an Application-Aware Network with SmartNICs to Accelerate Latency-Critical Online Services
