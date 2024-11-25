@@ -38,6 +38,13 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 <img src="../images/nfslicer_fpga.png" width="750">
 </p>
 
+Notification mechanism to assist CPU in handling RDMA connections (in progress!)
+------
+
+Insight: Locating work in RDMA queues is expensive for the CPU. Polling and inter-core synchronization overheads are prohibitive in handling μs-scale services.
+
+In this work, I designed and implemented a SmartNIC mechanism to notify cores of active RDMA connections, and balance RDMA connections across CPU cores.
+
 <!---
 <div style="text-align:center">
 </div>
