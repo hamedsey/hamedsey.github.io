@@ -41,7 +41,7 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 Notification mechanism to assist CPU in handling RDMA connections (in progress!)
 ------
 
-Insight: Locating work in RDMA queues is expensive for the CPU. Polling and inter-core synchronization overheads are prohibitive in handling μs-scale services.
+Insight: Locating work in RDMA queues is expensive for the CPU. Idle polling on empty queues and inter-core synchronization overheads are prohibitive in handling μs-scale services.
 
 In this work, I designed and implemented a SmartNIC mechanism to notify cores of active RDMA connections, and balance RDMA connections across CPU cores.
 
