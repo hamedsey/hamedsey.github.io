@@ -41,9 +41,15 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 Notification mechanism to assist CPU in handling RDMA connections (in progress!)
 ------
 
-Insight: Locating work in RDMA queues is expensive for the CPU. Idle polling on empty queues and inter-core synchronization overheads are prohibitive in handling μs-scale services.
+Online services are severely decomposed into microservices that are distributed across several compute hierarchies within the datacenter. Leaf nodes, responsible for back-end microservices (e.g., key-value stores), often establish thousands of connections with front-end or mid-tier nodes to serve requests.
 
-In this work, I designed and implemented a SmartNIC mechanism to notify cores of active RDMA connections, and balance RDMA connections across CPU cores.
+RDMA has gained traction as the low-latency transport in datacenters. In RDMA RC, the application typically interacts with each connection through its completion queue (CQ). Locating work in RDMA queues poses a problem at the scale of hundreds of connections. Idle polling on empty queues is prohibitive in handling μs-scale services. 
+
+One approach to solve this problem is by using sharedCQs, where multiple connections share one endpoint with an application thread. However, as datacenter traffic is non-uniform and unpredictable, this will leave cores idle, limiting our system’s throughput. Sharing CQs across threads introduces inter-core synchronization overheads which are, again, prohibitive in handling μs-scale services.
+
+In this work I design and implement a smartNIC-based host notification protocol, a mechanism to notify cores of active RDMA connections, and balance active connections across CPU cores to boost throughput and improve tail latency of the service.
+
+Full paper coming soon!
 
 <!---
 <div style="text-align:center">
