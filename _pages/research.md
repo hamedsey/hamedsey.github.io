@@ -38,7 +38,7 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 <img src="../images/nfslicer_fpga.png" width="750">
 </p>
 
-SmartNIC-basec notification protocol to assist CPU in handling RDMA connections at scale (in progress)
+SmartNIC-based notification protocol to assist CPU in handling RDMA connections at scale (in progress)
 ------
 
 Online services are severely decomposed into microservices that are distributed across several compute hierarchies within the datacenter. Leaf nodes, responsible for back-end microservices (e.g., key-value stores), often establish thousands of connections with front-end or mid-tier nodes to serve requests.
