@@ -45,7 +45,7 @@ Online services are severely decomposed into microservices that are distributed 
 
 RDMA has gained traction as the low-latency transport in datacenters. In RDMA RC, the application typically interacts with each connection through its completion queue (CQ). Locating work in RDMA queues poses a problem at the scale of hundreds of connections. Idle polling on empty queues is prohibitive in handling μs-scale services. 
 
-One approach to solve this problem is by using sharedCQs, where multiple connections share one endpoint within the application (cores may share these CQs). However,s datacenter traffic is non-uniform and unpredictable, this will leave cores idle, limiting the system’s throughput. Moreover, sharing CQs across threads introduces inter-core synchronization overhead which is, again, prohibitive in handling μs-scale services.
+One approach to solve this problem is by using sharedCQs, where multiple connections share one endpoint within the application (cores may share these CQs). However, as datacenter traffic is non-uniform and unpredictable, this will leave cores idle, limiting the system’s throughput. Moreover, sharing CQs across threads introduces inter-core synchronization overhead which is, again, prohibitive in handling μs-scale services.
 
 In this work, I design and implement a smartNIC-based host notification protocol, a mechanism to notify cores of active RDMA connections, and balance active connections across CPU cores to boost throughput and improve tail latency of the service.
 
