@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! If you're here to know more about me, you're at the right place! I'll make this easy :D
 - Final-year PhD student
   - School: Georgia Institute of Technology
   - Major: Electrical and Computer Engineering (ECE) 
@@ -16,8 +15,10 @@ Welcome! If you're here to know more about me, you're at the right place! I'll m
   - Research interests: datacenters, smartNICs, in-network computing, RDMA/RoCE, computer architecture, FPGAs
   - I'm currently seeking full-time opportunities to research and develop forms of in-network computing to accelerate latency-critical datacenter workloads. If my profile piques your interest, please reach out via email: hamed@gatech.edu
 
-- Topic: Optimizing the Datacenter Network with SmartNICs to Accelerate Latency-Critical Online Services
-  - Datacenters traditionally operate with a strict boundary between network and compute. The increasing demands of today’s datacenters has instigated a push toward merging the two, giving rise to the advent of smartNICs. While tightly coupled with their hosts, smartNICs can inspect packets, extract hints, and leverage them to enabling unique network-compute performance optimizations, which boost server throughput under very tight tail latency SLOs for latency-critical microservices. My work identifies prime use cases for boosting datacenter performance using smartNICs and clarifies why smartNICs should co-exist, alongside server grade CPUs, as first-class citizens within the datacenter.
+- Topic: Leveraging SmartNICs to Accelerate Latency-Critical Online Services
+
+  - The increasing demands of today’s datacenters has instigated a push toward merging network and compute, giving rise to smartNICs. Tightly coupled with their hosts, smartNICs can inspect packets, extract hints, and leverage offloaded application-level semantics to boost servers' throughput under SLOs, accelerate us-scale online services. Such offloads enable significant performance gains through the integration of techniques such as inter-core load balancing, optimized data movement, and improved RDMA connection scalability for server-grade CPUs. My work identifies prime use cases for boosting datacenter performance using smartNICs and clarifies why smartNICs should co-exist, alongside server grade CPUs, as first-class citizens within the datacenter.
+
 
 <!---
 * In short, I enjoy building high performance systems (hardware and software)
