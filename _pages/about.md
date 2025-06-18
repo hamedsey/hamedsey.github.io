@@ -17,7 +17,7 @@ redirect_from:
 
 - Topic: Leveraging SmartNICs to Accelerate Latency-Critical Online Services
 
-  - The increasing demands of today’s datacenters has instigated a push toward merging network and compute, giving rise to smartNICs. Tightly coupled with their hosts, smartNICs can inspect packets, extract hints, and leverage offloaded application-level semantics to boost servers' throughput under SLOs, accelerate us-scale online services. Such offloads enable significant performance gains through the integration of techniques such as inter-core load balancing, optimized data movement, and improved RDMA connection scalability for server-grade CPUs. My work identifies prime use cases for boosting datacenter performance using smartNICs and clarifies why smartNICs should co-exist, alongside server grade CPUs, as first-class citizens within the datacenter.
+  - The increasing demands of today’s datacenters has instigated a push toward merging network and compute, giving rise to smartNICs. Tightly coupled with their hosts, smartNICs can inspect packets, extract hints, and leverage offloaded application-level semantics to boost servers' throughput under SLOs, accelerate μs-scale online services. Such offloads enable significant performance gains through the integration of techniques such as inter-core load balancing, optimized data movement, and improved RDMA connection scalability for server-grade CPUs. My work identifies prime use cases for boosting datacenter performance using smartNICs and clarifies why smartNICs should co-exist, alongside server grade CPUs, as first-class citizens within the datacenter.
 
 
 <!---
