@@ -49,6 +49,12 @@ Sassy was implemented on an FPGA smartNIC and evaluated on an RDMA RC microbench
 
 Full paper coming soon!
 
+<p align="center">
+<img src="../images/Sassy_Design.png" width="380">
+<img src="../images/Sassy_Implementation.png" width="750">
+</p>
+
+
 <!---
 <div style="text-align:center">
 </div>
