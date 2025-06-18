@@ -38,16 +38,14 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 <img src="../images/nfslicer_fpga.png" width="750">
 </p>
 
-SmartNIC-based notification protocol to assist CPU in handling RDMA connections at scale (in progress)
+Sassy: SmartNIC-Assisted Notification Delivery for μs-scale RDMA Workloads (in submission)
 ------
 
-Online services are severely decomposed into microservices that are distributed across several compute hierarchies within the datacenter. Leaf nodes, responsible for back-end microservices (e.g., key-value stores), often establish thousands of connections with front-end or mid-tier nodes to serve requests.
+Insight: RDMA’s polling-based arrival notification approach poses a performance challenge at high core and connection counts. RDMA’s offered mechanisms present a triangle tradeoff between wasteful idle polling, high inter-core synchronization costs, or inter-core load imbalance—all of which drastically hurt the peak attainable throughput for latency-sensitive services with μs-scale service times.
 
-RDMA has gained traction as the low-latency transport in datacenters. In RDMA RC, the application typically interacts with each connection through its completion queue (CQ). Locating work in RDMA queues poses a problem at the scale of hundreds of connections. Idle polling on empty queues is prohibitive in handling μs-scale services. 
+Sassy is a smartNIC-based notification mechanism that breaks this tradeoff, optimizing the performance and scalability of servicing μs-scale RPCs over high connection counts. Sassy eliminates performance overheads stemming from idle polling and inter-core synchronization, while balancing the load of active RDMA connections across available cores. 
 
-One approach to solve this problem is by using sharedCQs, where multiple connections share one endpoint within the application (cores may share these CQs). However, as datacenter traffic is non-uniform and unpredictable, this will leave cores idle, limiting the system’s throughput. Moreover, sharing CQs across threads introduces inter-core synchronization overhead which is, again, prohibitive in handling μs-scale services.
-
-In this work, I design and implement a smartNIC-based host notification protocol, a mechanism to notify cores of active RDMA connections, and balance active connections across CPU cores to boost throughput and improve tail latency of the service.
+Sassy was implemented on an FPGA smartNIC and evaluated on an RDMA RC microbenchmark as well as a high-performance key-value store with a range of traffic patterns.
 
 Full paper coming soon!
 
