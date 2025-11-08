@@ -1,7 +1,7 @@
 ---
 title: "Sassy: SmartNIC-Assisted Notification Delivery for μs-scale RDMA Workloads"
 #collection: publications
-#permalink: /publication/turbo
+#permalink: /publication/sassy
 #excerpt: 'In review.'
 date: 2026-01-30
 venue: '2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
