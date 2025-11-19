@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs (published at HPCA’23)
+Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs (published in HPCA’23)
 ------
 
 Insight: μs-scale RPCs require immediate load imbalance detection and remediation mechanism operating on a per-packet granularity. Existing NIC-based mechanisms (RSS, RSS++) are static and too coarse grained and software-based mechanisms introduce significant overhead for µs-scale RPCs. 
@@ -38,7 +38,7 @@ Enabling payload slicing eliminates data movement bottlenecks between the NIC an
 <img src="../images/nfslicer_fpga.png" width="750">
 </p>
 
-Sassy: SmartNIC-Assisted Notification Delivery for μs-scale RDMA Workloads (in submission)
+Sassy: SmartNIC-Assisted Notification Delivery for μs-scale RDMA Workloads (published in HPCA’26)
 ------
 
 Insight: RDMA’s polling-based arrival notification approach poses a performance challenge at high core and connection counts. RDMA’s offered mechanisms present a triangle tradeoff between wasteful idle polling, high inter-core synchronization costs, or inter-core load imbalance—all of which drastically hurt the peak attainable throughput for latency-sensitive services with μs-scale service times.
